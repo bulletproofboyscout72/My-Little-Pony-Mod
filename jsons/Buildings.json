@@ -14,33 +14,33 @@
 	},
 	{
 		"name": "Cloudominium",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"replaces": "Barracks",
+		"uniqueTo": "Equestria",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Bronze Working"
 	},
 	{
 		"name": "Fluttershy's Cottage",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"replaces": "Circus",
+		"uniqueTo": "Equestria",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Trapping"
 	},
 	{
 		"name": "Golden Oaks Library",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"replaces": "Library",
+		"uniqueTo": "Equestria",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Pottery"
 	},
 	{
 		"name": "Rarity's Boutique",
