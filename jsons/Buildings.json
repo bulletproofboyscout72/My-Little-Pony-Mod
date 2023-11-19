@@ -11,6 +11,7 @@
 		"production": 1,
 		"maintenance": 0,
 		"isNationalWonder": true,
+		"uniques": ["Empire enters golden age", "Free Great Person", "Great General provides double combat bonus"]
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
 	},
