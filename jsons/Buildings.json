@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Tree of Harmony",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Equestria",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -13,7 +13,57 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "Cloudominium",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Aliens",
+		"cost": 80,
+		"hurryCostModifier": 160,
+		"happiness": 2,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Fluttershy's Cottage",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Aliens",
+		"cost": 80,
+		"hurryCostModifier": 160,
+		"happiness": 2,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Golden Oaks Library",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Aliens",
+		"cost": 80,
+		"hurryCostModifier": 160,
+		"happiness": 2,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Rarity's Boutique",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Aliens",
+		"cost": 80,
+		"hurryCostModifier": 160,
+		"happiness": 2,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Sugarcube Corner",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Aliens",
+		"cost": 80,
+		"hurryCostModifier": 160,
+		"happiness": 2,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Sweet Apple Acres",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Aliens",
 		"cost": 80,
