@@ -44,8 +44,8 @@
 		"cost": 70,
 		"hurryCostModifier": 25,
 		"science": 2,
-		"greatPersonPoints": {"Great Scientist": 4},
-		"uniques": ["[+1 Science] per [1] population [in this city]"],
+		"greatPersonPoints": {"Great Scientist": 3},
+		"uniques": ["[+1 Science] per [1] population [in this city]", "Free Technology"],
 		"requiredTech": "Pottery"
 	},
 	{
