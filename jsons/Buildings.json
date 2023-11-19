@@ -23,7 +23,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"production": 1,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": ["Military Units gifted from City-States start with [15] XP", "Improves movement speed on roads", "New [Land] units start with [15] Experiense [in this city]", "New [Air] unites start with [30] Experience [in this city]"],
 		"requiredTech": "Bronze Working"
 	},
 	{
