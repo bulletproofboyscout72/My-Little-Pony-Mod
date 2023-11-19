@@ -54,21 +54,21 @@
 	},
 	{
 		"name": "Sugarcube Corner",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"replaces": "Granary",
+		"uniqueTo": "Equestria",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Pottery"
 	},
 	{
 		"name": "Sweet Apple Acres",
 		"replaces": "Water Mill",
 		"uniqueTo": "Equestria",
-		"cost": 80,
+		"cost": 70,
 		"hurryCostModifier": 160,
-		"happiness": 2,
+		"food": 3,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "The Wheel"
 	}
