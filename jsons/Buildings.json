@@ -16,9 +16,10 @@
 		"name": "Cloudominium",
 		"replaces": "Barracks",
 		"uniqueTo": "Equestria",
-		"cost": 80,
+		"cost": 70,
 		"hurryCostModifier": 25,
-		"happiness": 2,
+		"maintenance": 0,
+		"production": 1,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Bronze Working"
 	},
