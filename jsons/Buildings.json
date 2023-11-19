@@ -44,13 +44,13 @@
 	},
 	{
 		"name": "Rarity's Boutique",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"replaces": "Amphitheater",
+		"uniqueTo": "Equestria",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": "Drama and Poetry"
 	},
 	{
 		"name": "Sugarcube Corner",
