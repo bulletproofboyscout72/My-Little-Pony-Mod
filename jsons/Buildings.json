@@ -44,7 +44,7 @@
 		"cost": 70,
 		"hurryCostModifier": 25,
 		"science": 2,
-		"greatPersonPoints": {"Great Scientist": 2},
+		"greatPersonPoints": {"Great Scientist": 4},
 		"uniques": ["[+1 Science] per [1] population [in this city]"],
 		"requiredTech": "Pottery"
 	},
@@ -57,7 +57,7 @@
 		"happiness": 1,
 		"culture": 4,
 		"greatPersonPoints": {"Great Artist": 2},
-		"uniques": ["[+1 Science] per [1] population [in this city]"],
+		"uniques": ["[+3 Culture, +2 Happiness] from [Gems] tiles [in this city]", "[+2 Culture, +2 Happiness] from [Gold] tiles [in this city]", "[+2 Culture, +2 Happiness] from [Silver] tiles [in this city]"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -69,7 +69,7 @@
 		"happiness": 2,
 		"food": 3,
 		"greatPersonPoints": {"Great Merchant": 2},
-		"uniques": ["[+1 Happiness] from all [Food] buildings", "[+1 Gold, +1 Happiness] from [Sugar] tiles [in this city]"],
+		"uniques": ["[+1 Happiness] from all [Food] buildings", "[+1 Gold, +2 Happiness] from [Sugar] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	},
 	{
