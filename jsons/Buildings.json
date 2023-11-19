@@ -64,12 +64,12 @@
 	},
 	{
 		"name": "Sweet Apple Acres",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"replaces": "Water Mill",
+		"uniqueTo": "Equestria",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredTech": "The Wheel"
 	}
 ]
