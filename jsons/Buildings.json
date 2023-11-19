@@ -17,7 +17,7 @@
 		"replaces": "Barracks",
 		"uniqueTo": "Equestria",
 		"cost": 80,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 25,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Bronze Working"
@@ -27,7 +27,7 @@
 		"replaces": "Circus",
 		"uniqueTo": "Equestria",
 		"cost": 80,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 25,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Trapping"
@@ -37,7 +37,7 @@
 		"replaces": "Library",
 		"uniqueTo": "Equestria",
 		"cost": 80,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 25,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Pottery"
@@ -47,7 +47,7 @@
 		"replaces": "Amphitheater",
 		"uniqueTo": "Equestria",
 		"cost": 80,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 25,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Drama and Poetry"
@@ -57,7 +57,7 @@
 		"replaces": "Granary",
 		"uniqueTo": "Equestria",
 		"cost": 80,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 25,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Pottery"
@@ -67,7 +67,7 @@
 		"replaces": "Water Mill",
 		"uniqueTo": "Equestria",
 		"cost": 70,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 25,
 		"food": 3,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "The Wheel"
