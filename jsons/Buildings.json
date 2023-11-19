@@ -36,9 +36,9 @@
 		"name": "Golden Oaks Library",
 		"replaces": "Library",
 		"uniqueTo": "Equestria",
-		"cost": 80,
+		"cost": 70,
 		"hurryCostModifier": 25,
-		"happiness": 2,
+		"science": 1,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Pottery"
 	},
