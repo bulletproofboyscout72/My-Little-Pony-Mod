@@ -69,7 +69,7 @@
 		"happiness": 2,
 		"food": 3,
 		"greatPersonPoints": {"Great Merchant": 2},
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": ["[+1 Happiness] from all [Food] buildings", ""],
 		"requiredTech": "Pottery"
 	},
 	{
