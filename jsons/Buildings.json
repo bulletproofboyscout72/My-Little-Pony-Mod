@@ -11,7 +11,7 @@
 		"production": 1,
 		"maintenance": 0,
 		"isNationalWonder": true,
-		"uniques": ["Empire enters golden age", "Free Great Person", "Great General provides double combat bonus"]
+		"uniques": ["Empire enters golden age", "Free Great Person", "Great General provides double combat bonus", "[Wounded] Units adjacent to this city heal [20] HP per turn when healing"]
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
 	},
