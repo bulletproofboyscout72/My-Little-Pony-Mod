@@ -81,7 +81,7 @@
 		"food": 3,
 		"production": 1,
 		"greatPersonPoints": {"Great Merchant": 2},
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": ["[+1 Gold, +1 Food, +1 Production] from [Farm] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "The Wheel"
 	}
 ]
