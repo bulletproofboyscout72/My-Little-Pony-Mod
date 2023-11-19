@@ -41,6 +41,7 @@
 		"cost": 70,
 		"hurryCostModifier": 25,
 		"science": 1,
+		"greatPersonPoints": {"Great Scientist": 2},
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Pottery"
 	},
@@ -52,8 +53,7 @@
 		"hurryCostModifier": 25,
 		"happiness": 1,
 		"culture": 4,
-		"specialistSlots": {"Artist": 1},
-		"greatPersonPoints": {"Great Artist": 1},
+		"greatPersonPoints": {"Great Artist": 2},
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Drama and Poetry"
 	},
@@ -61,9 +61,11 @@
 		"name": "Sugarcube Corner",
 		"replaces": "Granary",
 		"uniqueTo": "Equestria",
-		"cost": 80,
+		"cost": 50,
 		"hurryCostModifier": 25,
 		"happiness": 2,
+		"food": 3,
+		"greatPersonPoints": {"Great Merchant": 2},
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Pottery"
 	},
@@ -71,9 +73,11 @@
 		"name": "Sweet Apple Acres",
 		"replaces": "Water Mill",
 		"uniqueTo": "Equestria",
-		"cost": 70,
+		"cost": 60,
 		"hurryCostModifier": 25,
 		"food": 3,
+		"production": 1,
+		"greatPersonPoints": {"Great Merchant": 2},
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "The Wheel"
 	}
