@@ -7,7 +7,6 @@
 		"movement": 4,
 		"cost": 40,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Ignores terrain cost",],
-		"attackSound": ""
 	},
 	{
 		"name": "Unicorn",
@@ -42,7 +41,8 @@
 		"requiredResource": "Horses",
 		"upgradeTo": "Fighter",
 		"obsoleteTech": "Radar",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Air Repair"],
+		"uniques": ["[70]% chance to intercept air attacks", "[+180]% Strength <vs [Bomber] units", "[+180]% Strength <vs [Helicopter] units", "[+180]% Strength <vs [Mounted] units", "[+150]% Strength <vs [Armored] units"],
 		"attackSound": "phasers"
 	},
 	{
