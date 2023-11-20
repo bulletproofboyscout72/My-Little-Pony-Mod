@@ -23,7 +23,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"production": 1,
-		"uniques": ["Military Units gifted from City-States start with [15] XP", "Improves movement speed on roads", "New [Land] units start with [15] Experiense [in this city]", "New [Air] unites start with [30] Experience [in this city]", "Provides [2] [Horses]", "All newly-trained [Mounted] units [in this city] receive the [Formation I, Formation 2] promotion"],
+		"uniques": ["Military Units gifted from City-States start with [15] XP", "Improves movement speed on roads", "New [Land] units start with [15] Experiense [in this city]", "New [Air] unites start with [30] Experience [in this city]", "Provides [2] [Horses]", "All newly-trained [Mounted] units [in this city] receive the [Formation I, Formation II] promotion", "Free [Horseman] appears"],
 		"requiredTech": "Bronze Working"
 	},
 	{
