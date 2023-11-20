@@ -1,18 +1,13 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Earth Pony",
+		"unitType": "Civilian",
+		"uniqueTo": "Equestria",
+		"replaces": "Worker",
+		"movement": 4,
+		"cost": 40,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"attackSound": ""
 	},
 	{
 		"name": "Phasers",
