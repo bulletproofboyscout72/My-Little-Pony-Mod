@@ -23,7 +23,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 0,
 		"production": 1,
-		"uniques": ["Military Units gifted from City-States start with [15] XP", "Improves movement speed on roads", "New [Land] units start with [15] Experiense [in this city]", "New [Air] unites start with [30] Experience [in this city]", "Provides [2] [Horses]", "All newly-trained [Mounted] units [in this city] receive the [Formation I, Formation II] promotion", "Free [Horseman] appears"],
+		"uniques": ["Military Units gifted from City-States start with [15] XP", "Improves movement speed on roads", "New [Land] units start with [15] Experiense [in this city]", "New [Air] unites start with [30] Experience [in this city]", "Provides [2] [Horses]", "All newly-trained [Mounted] units [in this city] receive the [Formation I, Formation II] promotion", "Free [Horseman] appears", "Free [Great General] appears <upon declaring war with a major civilization>"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -34,7 +34,7 @@
 		"hurryCostModifier": 25,
 		"happiness": 4,
 		"faith": 1,
-		"uniques": ["[+2 Culture, +2 Happiness, +2 Faith] from [Cattle] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Crab] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Deer] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Fish] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Horses] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Ivory] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Sheep] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Whales] tiles [in this city]"],
+		"uniques": ["[+2 Culture, +2 Happiness, +2 Faith] from [Cattle] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Crab] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Deer] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Fish] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Horses] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Ivory] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Sheep] tiles [in this city]", "[+2 Culture, +2 Happiness, +2 Faith] from [Whales] tiles [in this city]", "Free [Great Prophet] appears <upon declaring friendship>"],
 		"requiredTech": "Trapping"
 	},
 	{
