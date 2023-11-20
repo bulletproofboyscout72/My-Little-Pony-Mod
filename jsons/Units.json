@@ -24,7 +24,7 @@
 		"UpgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"promotions": ["Formation I","Formation II"],
-		"uniques": ["Quick Study", "Can move after attacking"]
+		"uniques": ["Quick Study", "Can move after attacking", "Ranged attacks may be performed over obstacles"]
 		"attackSound": "phasers"
 	},
 	{
